@@ -1,2 +1,2 @@
 # LP-Solver
-Linear Programming Solver IE310
+Linear Programming Solver IE310 Project1
